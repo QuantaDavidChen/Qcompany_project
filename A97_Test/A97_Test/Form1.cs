@@ -1064,7 +1064,6 @@ namespace A97_Test
             string output = JsonConvert.SerializeObject(Data);
             File.WriteAllText(jfilePath, output);
             log("Json File Save OK", txtLog);
-            log("Jsop File is Creat Success", txtLog);
         }
         //----------------------------------------------------寫入JSON檔------------------------------------------------------
 

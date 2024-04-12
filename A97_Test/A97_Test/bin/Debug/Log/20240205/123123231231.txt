@@ -1,0 +1,2 @@
+2024/02/05 03:45:05 Routing NG
+2024/02/05 03:45:05 Result=FAIL;$;Message=SN NOT Found, SN=123123231231;$;

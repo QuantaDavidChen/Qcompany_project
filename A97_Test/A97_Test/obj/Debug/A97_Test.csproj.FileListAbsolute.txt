@@ -1,0 +1,96 @@
+C:\Users\11001005\source\repos\A97_Test\A97_Test\bin\Debug\A97_Test.exe.config
+C:\Users\11001005\source\repos\A97_Test\A97_Test\bin\Debug\A97_Test.exe
+C:\Users\11001005\source\repos\A97_Test\A97_Test\bin\Debug\A97_Test.pdb
+C:\Users\11001005\source\repos\A97_Test\A97_Test\bin\Debug\LogRecord.dll
+C:\Users\11001005\source\repos\A97_Test\A97_Test\bin\Debug\TestLibrary.dll
+C:\Users\11001005\source\repos\A97_Test\A97_Test\bin\Debug\upload SF.dll
+C:\Users\11001005\source\repos\A97_Test\A97_Test\obj\Debug\A97_Test.csprojAssemblyReference.cache
+C:\Users\11001005\source\repos\A97_Test\A97_Test\obj\Debug\A97_Test.Form1.resources
+C:\Users\11001005\source\repos\A97_Test\A97_Test\obj\Debug\A97_Test.Properties.Resources.resources
+C:\Users\11001005\source\repos\A97_Test\A97_Test\obj\Debug\A97_Test.csproj.GenerateResource.cache
+C:\Users\11001005\source\repos\A97_Test\A97_Test\obj\Debug\A97_Test.csproj.CoreCompileInputs.cache
+C:\Users\11001005\source\repos\A97_Test\A97_Test\obj\Debug\A97_Test.csproj.CopyComplete
+C:\Users\11001005\source\repos\A97_Test\A97_Test\obj\Debug\A97_Test.exe
+C:\Users\11001005\source\repos\A97_Test\A97_Test\obj\Debug\A97_Test.pdb
+C:\Users\11001005\source\repos\A97_Test\A97_Test\bin\Debug\INIDLL.dll
+C:\Users\11001005\source\repos\A97_Test\A97_Test\obj\Debug\A97_Test.Login.resources
+\\10.228.24.40\Automation\owner\DavidChen\A92\A97_Test\A97_Test\obj\Debug\A97_Test.csprojAssemblyReference.cache
+\\10.228.24.40\Automation\owner\DavidChen\A92\A97_Test\A97_Test\obj\Debug\A97_Test.Form1.resources
+\\10.228.24.40\Automation\owner\DavidChen\A92\A97_Test\A97_Test\obj\Debug\A97_Test.Login.resources
+\\10.228.24.40\Automation\owner\DavidChen\A92\A97_Test\A97_Test\obj\Debug\A97_Test.Properties.Resources.resources
+\\10.228.24.40\Automation\owner\DavidChen\A92\A97_Test\A97_Test\obj\Debug\A97_Test.csproj.GenerateResource.cache
+\\10.228.24.40\Automation\owner\DavidChen\A92\A97_Test\A97_Test\obj\Debug\A97_Test.csproj.CoreCompileInputs.cache
+\\10.228.24.40\Automation\owner\DavidChen\A92\A97_Test\A97_Test\obj\Debug\A97_Test.exe
+\\10.228.24.40\Automation\owner\DavidChen\A92\A97_Test\A97_Test\obj\Debug\A97_Test.pdb
+\\10.228.24.40\Automation\owner\DavidChen\A92\A97_Test\A97_Test\bin\Debug\A97_Test.exe.config
+\\10.228.24.40\Automation\owner\DavidChen\A92\A97_Test\A97_Test\bin\Debug\A97_Test.exe
+\\10.228.24.40\Automation\owner\DavidChen\A92\A97_Test\A97_Test\bin\Debug\A97_Test.pdb
+\\10.228.24.40\Automation\owner\DavidChen\A92\A97_Test\A97_Test\bin\Debug\INIDLL.dll
+\\10.228.24.40\Automation\owner\DavidChen\A92\A97_Test\A97_Test\bin\Debug\LogRecord.dll
+\\10.228.24.40\Automation\owner\DavidChen\A92\A97_Test\A97_Test\bin\Debug\TestLibrary.dll
+\\10.228.24.40\Automation\owner\DavidChen\A92\A97_Test\A97_Test\bin\Debug\upload SF.dll
+\\10.228.24.40\Automation\owner\DavidChen\A92\A97_Test\A97_Test\obj\Debug\A97_Test.csproj.CopyComplete
+D:\A92\A97_Test\A97_Test\bin\Debug\A97_Test.exe.config
+D:\A92\A97_Test\A97_Test\bin\Debug\A97_Test.exe
+D:\A92\A97_Test\A97_Test\bin\Debug\A97_Test.pdb
+D:\A92\A97_Test\A97_Test\bin\Debug\INIDLL.dll
+D:\A92\A97_Test\A97_Test\bin\Debug\LogRecord.dll
+D:\A92\A97_Test\A97_Test\bin\Debug\TestLibrary.dll
+D:\A92\A97_Test\A97_Test\bin\Debug\upload SF.dll
+D:\A92\A97_Test\A97_Test\obj\Debug\A97_Test.Form1.resources
+D:\A92\A97_Test\A97_Test\obj\Debug\A97_Test.Login.resources
+D:\A92\A97_Test\A97_Test\obj\Debug\A97_Test.Properties.Resources.resources
+D:\A92\A97_Test\A97_Test\obj\Debug\A97_Test.csproj.GenerateResource.cache
+D:\A92\A97_Test\A97_Test\obj\Debug\A97_Test.csproj.CoreCompileInputs.cache
+D:\A92\A97_Test\A97_Test\obj\Debug\A97_Test.csproj.CopyComplete
+D:\A92\A97_Test\A97_Test\obj\Debug\A97_Test.exe
+D:\A92\A97_Test\A97_Test\obj\Debug\A97_Test.pdb
+\\10.228.24.40\owner\DavidChen\A92\A97_Test\A97_Test\bin\Debug\A97_Test.exe.config
+\\10.228.24.40\owner\DavidChen\A92\A97_Test\A97_Test\bin\Debug\A97_Test.exe
+\\10.228.24.40\owner\DavidChen\A92\A97_Test\A97_Test\bin\Debug\A97_Test.pdb
+\\10.228.24.40\owner\DavidChen\A92\A97_Test\A97_Test\bin\Debug\INIDLL.dll
+\\10.228.24.40\owner\DavidChen\A92\A97_Test\A97_Test\bin\Debug\LogRecord.dll
+\\10.228.24.40\owner\DavidChen\A92\A97_Test\A97_Test\bin\Debug\TestLibrary.dll
+\\10.228.24.40\owner\DavidChen\A92\A97_Test\A97_Test\bin\Debug\upload SF.dll
+\\10.228.24.40\owner\DavidChen\A92\A97_Test\A97_Test\obj\Debug\A97_Test.Form1.resources
+\\10.228.24.40\owner\DavidChen\A92\A97_Test\A97_Test\obj\Debug\A97_Test.Login.resources
+\\10.228.24.40\owner\DavidChen\A92\A97_Test\A97_Test\obj\Debug\A97_Test.Properties.Resources.resources
+\\10.228.24.40\owner\DavidChen\A92\A97_Test\A97_Test\obj\Debug\A97_Test.csproj.GenerateResource.cache
+\\10.228.24.40\owner\DavidChen\A92\A97_Test\A97_Test\obj\Debug\A97_Test.csproj.CoreCompileInputs.cache
+\\10.228.24.40\owner\DavidChen\A92\A97_Test\A97_Test\obj\Debug\A97_Test.csproj.CopyComplete
+\\10.228.24.40\owner\DavidChen\A92\A97_Test\A97_Test\obj\Debug\A97_Test.exe
+\\10.228.24.40\owner\DavidChen\A92\A97_Test\A97_Test\obj\Debug\A97_Test.pdb
+D:\A92\A97_Test\A97_Test\obj\Debug\A97_Test.csproj.AssemblyReference.cache
+D:\A92\A97_Test\A97_Test\obj\Debug\A97_Test.csproj.SuggestedBindingRedirects.cache
+\\10.228.24.40\owner\DavidChen\A92\A97_Test\A97_Test\obj\Debug\A97_Test.csproj.AssemblyReference.cache
+D:\A92\A92 產測程式\A97_Test\A97_Test\bin\Debug\A97_Test.exe.config
+D:\A92\A92 產測程式\A97_Test\A97_Test\bin\Debug\A97_Test.exe
+D:\A92\A92 產測程式\A97_Test\A97_Test\bin\Debug\A97_Test.pdb
+D:\A92\A92 產測程式\A97_Test\A97_Test\bin\Debug\INIDLL.dll
+D:\A92\A92 產測程式\A97_Test\A97_Test\bin\Debug\LogRecord.dll
+D:\A92\A92 產測程式\A97_Test\A97_Test\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\A92\A92 產測程式\A97_Test\A97_Test\bin\Debug\Newtonsoft.Json.dll
+D:\A92\A92 產測程式\A97_Test\A97_Test\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\A92\A92 產測程式\A97_Test\A97_Test\bin\Debug\SQLitePCLRaw.core.dll
+D:\A92\A92 產測程式\A97_Test\A97_Test\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\A92\A92 產測程式\A97_Test\A97_Test\bin\Debug\System.Buffers.dll
+D:\A92\A92 產測程式\A97_Test\A97_Test\bin\Debug\System.Memory.dll
+D:\A92\A92 產測程式\A97_Test\A97_Test\bin\Debug\System.Numerics.Vectors.dll
+D:\A92\A92 產測程式\A97_Test\A97_Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\A92\A92 產測程式\A97_Test\A97_Test\bin\Debug\TestLibrary.dll
+D:\A92\A92 產測程式\A97_Test\A97_Test\bin\Debug\upload SF.dll
+D:\A92\A92 產測程式\A97_Test\A97_Test\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\A92\A92 產測程式\A97_Test\A97_Test\bin\Debug\Newtonsoft.Json.xml
+D:\A92\A92 產測程式\A97_Test\A97_Test\bin\Debug\System.Buffers.xml
+D:\A92\A92 產測程式\A97_Test\A97_Test\bin\Debug\System.Memory.xml
+D:\A92\A92 產測程式\A97_Test\A97_Test\bin\Debug\System.Numerics.Vectors.xml
+D:\A92\A92 產測程式\A97_Test\A97_Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\A92\A92 產測程式\A97_Test\A97_Test\obj\Debug\A97_Test.csproj.AssemblyReference.cache
+D:\A92\A92 產測程式\A97_Test\A97_Test\obj\Debug\A97_Test.Login.resources
+D:\A92\A92 產測程式\A97_Test\A97_Test\obj\Debug\A97_Test.Properties.Resources.resources
+D:\A92\A92 產測程式\A97_Test\A97_Test\obj\Debug\A97_Test.csproj.GenerateResource.cache
+D:\A92\A92 產測程式\A97_Test\A97_Test\obj\Debug\A97_Test.csproj.CoreCompileInputs.cache
+D:\A92\A92 產測程式\A97_Test\A97_Test\obj\Debug\A97_Test.csproj.CopyComplete
+D:\A92\A92 產測程式\A97_Test\A97_Test\obj\Debug\A97_Test.exe
+D:\A92\A92 產測程式\A97_Test\A97_Test\obj\Debug\A97_Test.pdb
+D:\A92\A92 產測程式\A97_Test\A97_Test\obj\Debug\A97_Test.Form1.resources

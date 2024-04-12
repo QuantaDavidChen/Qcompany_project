@@ -1,0 +1,7 @@
+2023/02/15 01:26:43 --------------------
+2023/02/15 01:26:43 ESN Length OK
+2023/02/15 01:26:43 --------------------
+
+2023/02/15 01:26:44  Error! Please Check The Error_Code!
+2023/02/15 01:26:47  Error! Please Check The Error_Code!
+2023/02/15 01:26:48  Error! Please Check The Error_Code!
